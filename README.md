@@ -22,4 +22,4 @@ The GUI that the user is presented with is intuitive and simple. The collapsible
 
 Below is a video demoing example usage:
 
-[pdf-chat-demo.m4v](demo/pdf-chat-demo.m4v)
+https://github.com/xavajk/lesson-saver/assets/95323308/c90ec204-1d2d-4d5c-8489-a280c13f7557
