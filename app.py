@@ -74,9 +74,9 @@ def main():
     if "conversation" not in st.session_state:
         st.session_state['conversation'] = None
     if "chat_history" not in st.session_state:
-        st.session_state['chat_history'] = None
+        st.session_state['chat_history'] = []
 
-    st.header("Chat with multiple PDFs :books:")
+    st.header("Chat with your PDFs :books:")
 
     user_question = st.chat_input("What do you want to know?")
     if user_question:
